@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 banane
 pain
 spagetti
+=======
+coffe
+boisson
+jus
+>>>>>>> movie
